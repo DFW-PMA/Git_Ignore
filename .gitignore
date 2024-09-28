@@ -2,6 +2,12 @@
 # ignore ALL .log files
 *.log
 
+# ignore ALL .zip files
+*.zip
+
+# ignore ALL /work/* files
+/work/*
+
 # ignore ALL .DS.Store files
 .DS_Store
 
@@ -16,6 +22,4 @@
 
 # ignore Xcode per-User settings binary file
 UserInterfaceState.xcuserstate
-
-
 
